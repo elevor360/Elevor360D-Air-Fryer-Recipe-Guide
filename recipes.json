@@ -1,0 +1,1798 @@
+[
+  {
+    "id": 1,
+    "title": "Crispy Air Fryer Chips",
+    "category": "Potatoes",
+    "servings": 2,
+    "prep": 12,
+    "cook": 24,
+    "ingredients": [
+      {
+        "qty": "600g",
+        "item": "potatoes"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "paprika"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "salt"
+      }
+    ],
+    "steps": [
+      "Cut potatoes into 1cm chips and rinse off starch.",
+      "Dry thoroughly and toss with oil paprika and salt.",
+      "Air fry at 190°C for 20–24 minutes shaking twice until golden and tender."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "potatoes",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Skin-On Potato Wedges",
+    "category": "Potatoes",
+    "servings": 2,
+    "prep": 12,
+    "cook": 25,
+    "ingredients": [
+      {
+        "qty": "600g",
+        "item": "potatoes"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "smoked paprika"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "garlic powder"
+      }
+    ],
+    "steps": [
+      "Scrub potatoes and cut into even wedges.",
+      "Dry and toss with oil and seasonings.",
+      "Air fry at 195°C for 22–25 minutes turning halfway until crisp and cooked through."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "potatoes",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Baby Roast Potatoes",
+    "category": "Potatoes",
+    "servings": 2,
+    "prep": 12,
+    "cook": 22,
+    "ingredients": [
+      {
+        "qty": "500g",
+        "item": "baby potatoes"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "dried rosemary"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "salt"
+      }
+    ],
+    "steps": [
+      "Halve larger baby potatoes and pat dry.",
+      "Toss with oil rosemary and salt.",
+      "Air fry at 195°C for 18–22 minutes shaking halfway until soft inside."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "potatoes",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Hasselback Potatoes",
+    "category": "Potatoes",
+    "servings": 2,
+    "prep": 12,
+    "cook": 35,
+    "ingredients": [
+      {
+        "qty": "4 small",
+        "item": "potatoes"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "dried thyme"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "salt"
+      }
+    ],
+    "steps": [
+      "Cut thin slices across each potato without cutting all the way through.",
+      "Brush with oil and sprinkle thyme and salt.",
+      "Air fry at 180°C for 30–35 minutes until centre is tender checking with a knife."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "potatoes",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Sweet Potato Fries",
+    "category": "Potatoes",
+    "servings": 2,
+    "prep": 12,
+    "cook": 18,
+    "ingredients": [
+      {
+        "qty": "500g",
+        "item": "sweet potatoes"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "cornflour"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "paprika"
+      }
+    ],
+    "steps": [
+      "Cut sweet potatoes into thin even fries and dry well.",
+      "Toss with cornflour oil and paprika.",
+      "Air fry at 190°C for 14–18 minutes shaking halfway and cooking in batches."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "potatoes",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Garlic Parmesan Potatoes",
+    "category": "Potatoes",
+    "servings": 2,
+    "prep": 12,
+    "cook": 22,
+    "ingredients": [
+      {
+        "qty": "500g",
+        "item": "small potatoes"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "30g",
+        "item": "parmesan"
+      },
+      {
+        "qty": "1",
+        "item": "garlic clove"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "chopped parsley"
+      }
+    ],
+    "steps": [
+      "Cut potatoes into quarters and toss with oil.",
+      "Air fry at 195°C for 18 minutes shaking once.",
+      "Add crushed garlic and parmesan and cook 3–4 minutes more then sprinkle parsley."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "potatoes",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Air Fryer Jacket Potatoes",
+    "category": "Potatoes",
+    "servings": 2,
+    "prep": 12,
+    "cook": 45,
+    "ingredients": [
+      {
+        "qty": "2 medium",
+        "item": "baking potatoes"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "salt"
+      }
+    ],
+    "steps": [
+      "Prick potato skins several times and rub with oil and salt.",
+      "Air fry at 200°C for 40–45 minutes turning halfway.",
+      "Check the centre is fully soft and add time if needed."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "potatoes",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Cajun Potato Cubes",
+    "category": "Potatoes",
+    "servings": 2,
+    "prep": 12,
+    "cook": 20,
+    "ingredients": [
+      {
+        "qty": "500g",
+        "item": "potatoes"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "Cajun seasoning"
+      }
+    ],
+    "steps": [
+      "Cut potatoes into 2cm cubes and dry well.",
+      "Toss with oil and Cajun seasoning.",
+      "Air fry at 195°C for 17–20 minutes shaking halfway."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "potatoes",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Chicken Breast with Herbs",
+    "category": "Chicken",
+    "servings": 2,
+    "prep": 12,
+    "cook": 20,
+    "ingredients": [
+      {
+        "qty": "2",
+        "item": "boneless chicken breasts (about 180g each)"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "dried mixed herbs"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "garlic powder"
+      }
+    ],
+    "steps": [
+      "Pat chicken dry and coat with oil herbs and garlic.",
+      "Place in a single layer and air fry at 180°C for about 18–20 minutes turning once.",
+      "Check thickest centre reaches at least 75°C with a food thermometer and rest 5 minutes."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "chicken",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Paprika Chicken Thighs",
+    "category": "Chicken",
+    "servings": 2,
+    "prep": 12,
+    "cook": 24,
+    "ingredients": [
+      {
+        "qty": "4",
+        "item": "boneless chicken thighs"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "smoked paprika"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "salt"
+      }
+    ],
+    "steps": [
+      "Toss chicken with oil paprika and salt.",
+      "Air fry at 190°C for 20–24 minutes turning halfway.",
+      "Check thickest centre reaches at least 75°C before serving."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "chicken",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Honey Mustard Chicken",
+    "category": "Chicken",
+    "servings": 2,
+    "prep": 12,
+    "cook": 20,
+    "ingredients": [
+      {
+        "qty": "2",
+        "item": "chicken breasts"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "Dijon mustard"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "honey"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "olive oil"
+      }
+    ],
+    "steps": [
+      "Mix mustard honey and oil and coat chicken.",
+      "Air fry at 180°C for 17–20 minutes turning once.",
+      "Verify centre reaches at least 75°C and rest before slicing."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "chicken",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Chicken Drumsticks",
+    "category": "Chicken",
+    "servings": 2,
+    "prep": 12,
+    "cook": 28,
+    "ingredients": [
+      {
+        "qty": "6 small",
+        "item": "chicken drumsticks"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "paprika"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "garlic powder"
+      }
+    ],
+    "steps": [
+      "Coat drumsticks with oil and seasonings.",
+      "Air fry at 190°C for 24–28 minutes turning halfway.",
+      "Use thermometer at thickest part avoiding bone to confirm at least 75°C."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "chicken",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Chicken Fajita Strips",
+    "category": "Chicken",
+    "servings": 2,
+    "prep": 12,
+    "cook": 16,
+    "ingredients": [
+      {
+        "qty": "350g",
+        "item": "chicken breast strips"
+      },
+      {
+        "qty": "1",
+        "item": "red pepper"
+      },
+      {
+        "qty": "1",
+        "item": "onion"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "fajita seasoning"
+      }
+    ],
+    "steps": [
+      "Slice pepper and onion and mix with chicken strips oil and seasoning.",
+      "Spread in basket without crowding and air fry at 190°C for 13–16 minutes stirring halfway.",
+      "Confirm chicken reaches at least 75°C before serving in tortillas."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "chicken",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Crispy Chicken Goujons",
+    "category": "Chicken",
+    "servings": 2,
+    "prep": 12,
+    "cook": 15,
+    "ingredients": [
+      {
+        "qty": "350g",
+        "item": "chicken breast strips"
+      },
+      {
+        "qty": "60g",
+        "item": "breadcrumbs"
+      },
+      {
+        "qty": "1",
+        "item": "egg"
+      },
+      {
+        "qty": "40g",
+        "item": "plain flour"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "paprika"
+      }
+    ],
+    "steps": [
+      "Set up flour beaten egg and breadcrumbs mixed with paprika.",
+      "Coat chicken strips in flour egg then breadcrumbs and spray lightly with oil.",
+      "Air fry at 190°C for 12–15 minutes turning once until chicken reaches at least 75°C."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "chicken",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Lemon Garlic Chicken Wings",
+    "category": "Chicken",
+    "servings": 2,
+    "prep": 12,
+    "cook": 25,
+    "ingredients": [
+      {
+        "qty": "600g",
+        "item": "chicken wings"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "1",
+        "item": "lemon"
+      },
+      {
+        "qty": "2",
+        "item": "garlic cloves"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "salt"
+      }
+    ],
+    "steps": [
+      "Pat wings dry and toss with oil salt lemon zest and crushed garlic.",
+      "Air fry at 195°C for 22–25 minutes turning halfway.",
+      "Check thickest meat reaches at least 75°C then squeeze lemon juice over."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "chicken",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "BBQ Chicken Bites",
+    "category": "Chicken",
+    "servings": 2,
+    "prep": 12,
+    "cook": 16,
+    "ingredients": [
+      {
+        "qty": "400g",
+        "item": "diced chicken breast"
+      },
+      {
+        "qty": "2 tbsp",
+        "item": "BBQ sauce"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "olive oil"
+      }
+    ],
+    "steps": [
+      "Coat chicken pieces with oil and half the sauce.",
+      "Air fry at 190°C for 12–16 minutes shaking halfway.",
+      "Check chicken reaches at least 75°C then toss with remaining sauce and serve."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "chicken",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Salmon Fillets",
+    "category": "Fish & Seafood",
+    "servings": 2,
+    "prep": 12,
+    "cook": 11,
+    "ingredients": [
+      {
+        "qty": "2",
+        "item": "salmon fillets (150g each)"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "1",
+        "item": "lemon"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "dried dill"
+      }
+    ],
+    "steps": [
+      "Brush salmon with oil and sprinkle dill and lemon zest.",
+      "Air fry skin-side down at 180°C for 9–11 minutes.",
+      "Check fish is opaque flakes easily and is cooked through (about 63°C internally)."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "fish & seafood",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Lemon Cod",
+    "category": "Fish & Seafood",
+    "servings": 2,
+    "prep": 12,
+    "cook": 12,
+    "ingredients": [
+      {
+        "qty": "2",
+        "item": "cod fillets (150g each)"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "1",
+        "item": "lemon"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "paprika"
+      }
+    ],
+    "steps": [
+      "Pat cod dry and brush with oil paprika and lemon zest.",
+      "Place on lightly oiled liner and air fry at 180°C for 10–12 minutes.",
+      "Check fish is opaque and flakes easily and reaches about 63°C internally."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "fish & seafood",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Garlic Prawns",
+    "category": "Fish & Seafood",
+    "servings": 2,
+    "prep": 12,
+    "cook": 8,
+    "ingredients": [
+      {
+        "qty": "300g",
+        "item": "raw peeled prawns"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "2",
+        "item": "garlic cloves"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "chopped parsley"
+      }
+    ],
+    "steps": [
+      "Toss raw prawns with oil and finely chopped garlic.",
+      "Air fry at 190°C for 6–8 minutes shaking halfway.",
+      "Cook until prawns are pink opaque and piping hot then add parsley."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "fish & seafood",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Breaded Fish Goujons",
+    "category": "Fish & Seafood",
+    "servings": 2,
+    "prep": 12,
+    "cook": 12,
+    "ingredients": [
+      {
+        "qty": "300g",
+        "item": "firm white fish strips"
+      },
+      {
+        "qty": "50g",
+        "item": "breadcrumbs"
+      },
+      {
+        "qty": "1",
+        "item": "egg"
+      },
+      {
+        "qty": "30g",
+        "item": "plain flour"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "paprika"
+      }
+    ],
+    "steps": [
+      "Dry fish and coat in flour then beaten egg then paprika breadcrumbs.",
+      "Spray lightly with oil and arrange without overlap.",
+      "Air fry at 190°C for 10–12 minutes turning once until fish is cooked through."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "fish & seafood",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Honey Soy Salmon",
+    "category": "Fish & Seafood",
+    "servings": 2,
+    "prep": 12,
+    "cook": 12,
+    "ingredients": [
+      {
+        "qty": "2",
+        "item": "salmon fillets"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "soy sauce"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "honey"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "sesame oil"
+      }
+    ],
+    "steps": [
+      "Mix soy honey and sesame oil and brush over salmon.",
+      "Place fillets skin-side down on a suitable liner.",
+      "Air fry at 180°C for 10–12 minutes until cooked through checking centre and avoiding burnt glaze."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "fish & seafood",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Crispy Broccoli",
+    "category": "Vegetables",
+    "servings": 2,
+    "prep": 12,
+    "cook": 11,
+    "ingredients": [
+      {
+        "qty": "350g",
+        "item": "broccoli florets"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "garlic powder"
+      },
+      {
+        "qty": "1",
+        "item": "pinch salt"
+      }
+    ],
+    "steps": [
+      "Cut broccoli into similar florets and dry thoroughly.",
+      "Toss with oil garlic and salt.",
+      "Air fry at 190°C for 8–11 minutes shaking once until edges brown and stalks tender."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "vegetables",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Honey Carrots",
+    "category": "Vegetables",
+    "servings": 2,
+    "prep": 12,
+    "cook": 17,
+    "ingredients": [
+      {
+        "qty": "400g",
+        "item": "carrots"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "honey"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "thyme"
+      }
+    ],
+    "steps": [
+      "Peel and cut carrots into even batons.",
+      "Toss with oil and thyme and air fry at 190°C for 12 minutes.",
+      "Add honey toss and cook 3–5 minutes until tender."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "vegetables",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Roasted Cauliflower",
+    "category": "Vegetables",
+    "servings": 2,
+    "prep": 12,
+    "cook": 16,
+    "ingredients": [
+      {
+        "qty": "400g",
+        "item": "cauliflower florets"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "curry powder"
+      },
+      {
+        "qty": "1",
+        "item": "pinch salt"
+      }
+    ],
+    "steps": [
+      "Dry cauliflower florets and toss with oil curry powder and salt.",
+      "Air fry at 190°C for 13–16 minutes shaking halfway.",
+      "Cook until edges golden and stalks tender."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "vegetables",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Crispy Brussels Sprouts",
+    "category": "Vegetables",
+    "servings": 2,
+    "prep": 12,
+    "cook": 16,
+    "ingredients": [
+      {
+        "qty": "400g",
+        "item": "Brussels sprouts"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "salt"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "balsamic vinegar"
+      }
+    ],
+    "steps": [
+      "Trim and halve sprouts and toss with oil and salt.",
+      "Air fry at 190°C for 13–16 minutes shaking halfway.",
+      "Toss with balsamic vinegar after cooking."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "vegetables",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Courgette Coins",
+    "category": "Vegetables",
+    "servings": 2,
+    "prep": 12,
+    "cook": 12,
+    "ingredients": [
+      {
+        "qty": "2",
+        "item": "courgettes"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "oregano"
+      },
+      {
+        "qty": "20g",
+        "item": "grated parmesan"
+      }
+    ],
+    "steps": [
+      "Cut courgettes into 1cm rounds and pat dry.",
+      "Toss with oil and oregano and arrange in a layer.",
+      "Air fry at 190°C for 9 minutes then sprinkle parmesan and cook 2–3 minutes more."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "vegetables",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Stuffed Peppers",
+    "category": "Vegetables",
+    "servings": 2,
+    "prep": 12,
+    "cook": 16,
+    "ingredients": [
+      {
+        "qty": "2",
+        "item": "bell peppers"
+      },
+      {
+        "qty": "150g",
+        "item": "cooked rice"
+      },
+      {
+        "qty": "100g",
+        "item": "tinned black beans drained"
+      },
+      {
+        "qty": "80g",
+        "item": "grated cheddar"
+      },
+      {
+        "qty": "2 tbsp",
+        "item": "tomato salsa"
+      }
+    ],
+    "steps": [
+      "Halve peppers and remove seeds.",
+      "Mix cooked rice beans salsa and half the cheese then fill peppers.",
+      "Air fry at 180°C for 13 minutes top with remaining cheese and cook 3 minutes until peppers soften."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "vegetables",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Garlic Mushrooms",
+    "category": "Vegetables",
+    "servings": 2,
+    "prep": 12,
+    "cook": 11,
+    "ingredients": [
+      {
+        "qty": "300g",
+        "item": "button mushrooms"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "2",
+        "item": "garlic cloves"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "chopped parsley"
+      }
+    ],
+    "steps": [
+      "Halve large mushrooms and pat dry.",
+      "Toss with oil and crushed garlic.",
+      "Air fry at 190°C for 9–11 minutes shaking once and garnish with parsley."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "vegetables",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Roasted Red Onions",
+    "category": "Vegetables",
+    "servings": 2,
+    "prep": 12,
+    "cook": 16,
+    "ingredients": [
+      {
+        "qty": "3",
+        "item": "red onions"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "balsamic vinegar"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "dried thyme"
+      }
+    ],
+    "steps": [
+      "Peel onions and cut into thick wedges.",
+      "Toss with oil thyme and vinegar.",
+      "Air fry at 185°C for 13–16 minutes turning once until soft and browned."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "vegetables",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Halloumi Fries",
+    "category": "Vegetarian",
+    "servings": 2,
+    "prep": 12,
+    "cook": 10,
+    "ingredients": [
+      {
+        "qty": "225g",
+        "item": "halloumi"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "plain flour"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "smoked paprika"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "olive oil"
+      }
+    ],
+    "steps": [
+      "Cut halloumi into thick sticks and pat dry.",
+      "Dust lightly with flour and paprika then brush with oil.",
+      "Air fry at 190°C for 8–10 minutes turning halfway until golden."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "vegetarian",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Crispy Tofu Cubes",
+    "category": "Vegetarian",
+    "servings": 2,
+    "prep": 12,
+    "cook": 16,
+    "ingredients": [
+      {
+        "qty": "400g",
+        "item": "firm tofu"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "cornflour"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "soy sauce"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "sesame oil"
+      }
+    ],
+    "steps": [
+      "Press tofu dry and cut into cubes.",
+      "Toss with soy sauce sesame oil and cornflour.",
+      "Air fry at 190°C for 13–16 minutes shaking twice until crisp."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "vegetarian",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Chickpea Crunch",
+    "category": "Vegetarian",
+    "servings": 2,
+    "prep": 12,
+    "cook": 15,
+    "ingredients": [
+      {
+        "qty": "400g",
+        "item": "tin chickpeas drained"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "smoked paprika"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "cumin"
+      }
+    ],
+    "steps": [
+      "Drain rinse and dry chickpeas very thoroughly.",
+      "Toss with oil paprika and cumin.",
+      "Air fry at 190°C for 12–15 minutes shaking frequently until crisp and let cool."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "vegetarian",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Falafel Patties",
+    "category": "Vegetarian",
+    "servings": 2,
+    "prep": 12,
+    "cook": 16,
+    "ingredients": [
+      {
+        "qty": "400g",
+        "item": "tin chickpeas drained"
+      },
+      {
+        "qty": "1 small",
+        "item": "onion"
+      },
+      {
+        "qty": "1",
+        "item": "garlic clove"
+      },
+      {
+        "qty": "2 tbsp",
+        "item": "plain flour"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "ground cumin"
+      },
+      {
+        "qty": "2 tbsp",
+        "item": "parsley"
+      }
+    ],
+    "steps": [
+      "Drain chickpeas thoroughly and mash with finely chopped onion garlic cumin flour and parsley.",
+      "Form small firm patties and brush lightly with oil.",
+      "Air fry at 190°C for 13–16 minutes turning once until browned and heated through."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "vegetarian",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Aubergine Slices",
+    "category": "Vegetarian",
+    "servings": 2,
+    "prep": 12,
+    "cook": 16,
+    "ingredients": [
+      {
+        "qty": "1 large",
+        "item": "aubergine"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "smoked paprika"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "garlic powder"
+      }
+    ],
+    "steps": [
+      "Slice aubergine into 1cm rounds and pat dry.",
+      "Brush with oil and sprinkle paprika and garlic.",
+      "Air fry at 190°C for 13–16 minutes turning once until soft and golden."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "vegetarian",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Cheesy Quesadilla",
+    "category": "Quick Meals",
+    "servings": 2,
+    "prep": 12,
+    "cook": 8,
+    "ingredients": [
+      {
+        "qty": "2",
+        "item": "flour tortillas"
+      },
+      {
+        "qty": "80g",
+        "item": "grated cheddar"
+      },
+      {
+        "qty": "1",
+        "item": "spring onion"
+      },
+      {
+        "qty": "2 tbsp",
+        "item": "tinned sweetcorn"
+      }
+    ],
+    "steps": [
+      "Place cheese chopped spring onion and drained sweetcorn on one tortilla and top with second.",
+      "Press edges and place flat in basket secured with a suitable rack if needed.",
+      "Air fry at 180°C for 6–8 minutes flipping carefully halfway until cheese melts."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "quick meals",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Ham and Cheese Toastie",
+    "category": "Quick Meals",
+    "servings": 2,
+    "prep": 12,
+    "cook": 7,
+    "ingredients": [
+      {
+        "qty": "2 slices",
+        "item": "bread"
+      },
+      {
+        "qty": "2 slices",
+        "item": "cooked ham"
+      },
+      {
+        "qty": "40g",
+        "item": "cheddar"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "butter"
+      }
+    ],
+    "steps": [
+      "Butter outside of bread and fill with ham and cheese.",
+      "Secure sandwich with a suitable rack or toothpicks so bread cannot blow into heating element.",
+      "Air fry at 180°C for 5–7 minutes turning once until crisp and cheese melted."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "quick meals",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Mini Pitta Pizzas",
+    "category": "Quick Meals",
+    "servings": 2,
+    "prep": 12,
+    "cook": 8,
+    "ingredients": [
+      {
+        "qty": "2 small",
+        "item": "pitta breads"
+      },
+      {
+        "qty": "4 tbsp",
+        "item": "passata"
+      },
+      {
+        "qty": "80g",
+        "item": "mozzarella"
+      },
+      {
+        "qty": "1 small",
+        "item": "tomato"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "oregano"
+      }
+    ],
+    "steps": [
+      "Spread pitta with passata and top with cheese sliced tomato and oregano.",
+      "Place flat in basket without crowding.",
+      "Air fry at 180°C for 6–8 minutes until cheese melts and bases crisp."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "quick meals",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Air Fryer Nachos",
+    "category": "Quick Meals",
+    "servings": 2,
+    "prep": 12,
+    "cook": 7,
+    "ingredients": [
+      {
+        "qty": "100g",
+        "item": "tortilla chips"
+      },
+      {
+        "qty": "80g",
+        "item": "cheddar"
+      },
+      {
+        "qty": "60g",
+        "item": "cooked black beans"
+      },
+      {
+        "qty": "2 tbsp",
+        "item": "salsa"
+      },
+      {
+        "qty": "1",
+        "item": "spring onion"
+      }
+    ],
+    "steps": [
+      "Put chips in a small air-fryer-safe dish and scatter with cheese and drained beans.",
+      "Air fry at 170°C for 5–7 minutes until cheese melts.",
+      "Top with salsa and sliced spring onion after cooking."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "quick meals",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Crispy Gnocchi",
+    "category": "Quick Meals",
+    "servings": 2,
+    "prep": 12,
+    "cook": 15,
+    "ingredients": [
+      {
+        "qty": "400g",
+        "item": "shelf-stable gnocchi"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "garlic powder"
+      },
+      {
+        "qty": "30g",
+        "item": "parmesan"
+      }
+    ],
+    "steps": [
+      "Toss uncooked shelf-stable gnocchi with oil and garlic powder.",
+      "Air fry at 190°C for 12–15 minutes shaking twice until golden and hot throughout.",
+      "Sprinkle parmesan and serve with warmed tomato sauce."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "quick meals",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Breakfast Sausages",
+    "category": "Breakfast",
+    "servings": 4,
+    "prep": 12,
+    "cook": 14,
+    "ingredients": [
+      {
+        "qty": "6 small",
+        "item": "raw pork sausages"
+      }
+    ],
+    "steps": [
+      "Arrange sausages in a single layer with room for airflow.",
+      "Air fry at 180°C for 12–14 minutes turning halfway.",
+      "Check thickest centre reaches at least 75°C and juices run clear."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "breakfast",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Bacon Rashers",
+    "category": "Breakfast",
+    "servings": 4,
+    "prep": 12,
+    "cook": 9,
+    "ingredients": [
+      {
+        "qty": "4 rashers",
+        "item": "back bacon"
+      }
+    ],
+    "steps": [
+      "Lay bacon in a single layer without overlap and avoid loose greaseproof paper.",
+      "Air fry at 180°C for 7–9 minutes turning halfway.",
+      "Cook until fully done and crisp to preference."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "breakfast",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Breakfast Hash Browns",
+    "category": "Breakfast",
+    "servings": 4,
+    "prep": 12,
+    "cook": 17,
+    "ingredients": [
+      {
+        "qty": "400g",
+        "item": "potatoes"
+      },
+      {
+        "qty": "1 small",
+        "item": "onion"
+      },
+      {
+        "qty": "1",
+        "item": "egg"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "plain flour"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "olive oil"
+      }
+    ],
+    "steps": [
+      "Grate potatoes and onion then squeeze out as much moisture as possible.",
+      "Mix with egg and flour and shape into six small patties brushing with oil.",
+      "Air fry at 190°C for 14–17 minutes turning halfway until golden and cooked through."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "breakfast",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Cinnamon French Toast Sticks",
+    "category": "Breakfast",
+    "servings": 4,
+    "prep": 12,
+    "cook": 10,
+    "ingredients": [
+      {
+        "qty": "4 slices",
+        "item": "thick bread"
+      },
+      {
+        "qty": "2",
+        "item": "eggs"
+      },
+      {
+        "qty": "80ml",
+        "item": "milk"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "cinnamon"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "caster sugar"
+      }
+    ],
+    "steps": [
+      "Whisk eggs milk cinnamon and sugar.",
+      "Cut bread into thick sticks and dip briefly in mixture.",
+      "Place on a lightly oiled tray and air fry at 180°C for 8–10 minutes turning halfway until egg coating is fully set."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "breakfast",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Baked Breakfast Tomatoes",
+    "category": "Breakfast",
+    "servings": 4,
+    "prep": 12,
+    "cook": 10,
+    "ingredients": [
+      {
+        "qty": "4 medium",
+        "item": "tomatoes"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "olive oil"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "dried oregano"
+      },
+      {
+        "qty": "1",
+        "item": "pinch salt"
+      }
+    ],
+    "steps": [
+      "Halve tomatoes and place cut-side up in a small oven-safe dish.",
+      "Drizzle with oil and sprinkle oregano and salt.",
+      "Air fry at 180°C for 8–10 minutes until softened."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "breakfast",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Air Fryer Apple Chips",
+    "category": "Snacks & Desserts",
+    "servings": 4,
+    "prep": 12,
+    "cook": 15,
+    "ingredients": [
+      {
+        "qty": "2",
+        "item": "apples"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "cinnamon"
+      }
+    ],
+    "steps": [
+      "Core apples and slice very thinly and evenly.",
+      "Pat dry and sprinkle cinnamon.",
+      "Air fry at 150°C for 12–15 minutes turning frequently and checking to prevent burning then cool to crisp."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "snacks & desserts",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Cinnamon Banana Bites",
+    "category": "Snacks & Desserts",
+    "servings": 4,
+    "prep": 12,
+    "cook": 8,
+    "ingredients": [
+      {
+        "qty": "2",
+        "item": "bananas"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "melted butter"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "cinnamon"
+      }
+    ],
+    "steps": [
+      "Slice bananas into thick rounds and toss gently with melted butter and cinnamon.",
+      "Place on a small suitable liner or tray.",
+      "Air fry at 180°C for 6–8 minutes until lightly caramelised."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "snacks & desserts",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Air Fryer Scones",
+    "category": "Snacks & Desserts",
+    "servings": 4,
+    "prep": 12,
+    "cook": 14,
+    "ingredients": [
+      {
+        "qty": "225g",
+        "item": "self-raising flour"
+      },
+      {
+        "qty": "55g",
+        "item": "cold butter"
+      },
+      {
+        "qty": "25g",
+        "item": "caster sugar"
+      },
+      {
+        "qty": "150ml",
+        "item": "milk"
+      }
+    ],
+    "steps": [
+      "Rub butter into flour then stir in sugar and enough milk for soft dough.",
+      "Pat to 2cm thick and cut six rounds.",
+      "Air fry at 170°C for 12–14 minutes until risen golden and cooked through."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "snacks & desserts",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Baked Pear Halves",
+    "category": "Snacks & Desserts",
+    "servings": 4,
+    "prep": 12,
+    "cook": 14,
+    "ingredients": [
+      {
+        "qty": "2",
+        "item": "ripe pears"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "honey"
+      },
+      {
+        "qty": "1/2 tsp",
+        "item": "cinnamon"
+      },
+      {
+        "qty": "10g",
+        "item": "chopped walnuts"
+      }
+    ],
+    "steps": [
+      "Halve and core pears and place cut-side up in a small air-fryer-safe dish.",
+      "Drizzle with honey and sprinkle cinnamon.",
+      "Air fry at 170°C for 12–14 minutes until tender then scatter walnuts."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "snacks & desserts",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Chocolate Croissant Bites",
+    "category": "Snacks & Desserts",
+    "servings": 4,
+    "prep": 12,
+    "cook": 10,
+    "ingredients": [
+      {
+        "qty": "1 sheet",
+        "item": "ready-rolled puff pastry"
+      },
+      {
+        "qty": "60g",
+        "item": "dark chocolate"
+      },
+      {
+        "qty": "1",
+        "item": "egg"
+      }
+    ],
+    "steps": [
+      "Cut pastry into 12 triangles and put a small piece of chocolate at wide end of each.",
+      "Roll up and brush with beaten egg.",
+      "Air fry in batches at 175°C for 8–10 minutes until puffed golden and pastry cooked through."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "snacks & desserts",
+      "air fryer"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Air Fryer Garlic Bread",
+    "category": "Snacks & Desserts",
+    "servings": 4,
+    "prep": 12,
+    "cook": 7,
+    "ingredients": [
+      {
+        "qty": "1 small",
+        "item": "baguette"
+      },
+      {
+        "qty": "40g",
+        "item": "softened butter"
+      },
+      {
+        "qty": "2",
+        "item": "garlic cloves"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "chopped parsley"
+      }
+    ],
+    "steps": [
+      "Slice baguette lengthways and mix butter with crushed garlic and parsley.",
+      "Spread garlic butter on cut sides and place bread in basket.",
+      "Air fry at 180°C for 5–7 minutes until golden and crisp."
+    ],
+    "notes": "Air fryer times are approximate and vary by model, basket load and food thickness. Preheat if your appliance requires it. Follow manufacturer instructions. Check food is safely cooked; use a food thermometer for meat and poultry.",
+    "tags": [
+      "snacks & desserts",
+      "air fryer"
+    ]
+  }
+]
